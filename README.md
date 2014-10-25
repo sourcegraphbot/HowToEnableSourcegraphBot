@@ -1,0 +1,2 @@
+HowToEnableSourcegraphBot
+=========================
